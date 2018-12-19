@@ -1,0 +1,9 @@
+<category id="catWeather">
+  <block type="weather"></block>
+  <block type="weather_aqi"></block>
+  <block type="weather_observe"></block>
+  <block type="weather_forecast"></block>
+  <block type="weather_reservoir"></block>
+  <block type="weather_quake"></block>
+  <block type="weather_radar"></block>
+</category>

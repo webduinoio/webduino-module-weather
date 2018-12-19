@@ -1,0 +1,14 @@
+{
+  "types": ["weather","weather_aqi","weather_radar","weather_observe","weather_forecast","weather_reservoir","weather_quake"],
+  "category": "catPlus",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "weather.js"    
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}
